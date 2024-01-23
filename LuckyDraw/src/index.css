@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  --orange: #f2612b;
+  --brick: #c35444;
+  --purple: #52347f;
+  --blue-purple: #413971;
+  --dark-purple: #341464;
+  --yellow: #ffd212;
+}
+
+body {
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
